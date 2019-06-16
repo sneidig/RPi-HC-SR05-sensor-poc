@@ -10,7 +10,7 @@ Breadboard
 Resistors
 Jumper wires
 
-Thank you to PASCAL PDX for encouraging me to complete this tutorial as part of the series of Hacker Symposium workshops.
+Thank you to PASCAL PDX for encouraging me to complete this tutorial as part of the Hacker Symposium workshop series.
 https://www.pascalpdx.org/
 
 ![Raspberry Pi Zero W and HC-SR04 Ultrasonic Range Sensor](https://piprojects.s3-us-west-2.amazonaws.com/pi-with-HC-SR04-sensor.jpg)
